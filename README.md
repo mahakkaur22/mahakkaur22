@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahak Kaur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahakkaur22&label=Profile%20views&color=0e75b6&style=flat" alt="mahakkaur22" /> </p>
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/Mahakkaur10" target="blank"><img src="https://img.shields.io/twitter/follow/mahakkaur22?logo=twitter&style=for-the-badge" alt="Mahakkaur10" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Frontend Web Developer**
 
 - 🌱 I’m currently learning **React.js, Node.js, Angular.js, OpenCV**
 
 - 📫 How to reach me **mahakkaurchhabra22@gmail.com**
 
-- ⚡ Fun fact **I like painting**
+- ⚡ Fun fact **I like Badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
