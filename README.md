@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning **React.js, Node.js, Angular.js, OpenCV**
 
 - 📫 How to reach me **mahakkaurchhabra22@gmail.com**
+- 🤔 I’m looking for help with token creation
+- 🌱 I’m currently learning web3.0
 
 - ⚡ Fun fact **I like Badminton** 🏸
  - 💬 Ask me about anything [here](https://www.linkedin.com/in/mahak-kaur-54a89a218)
