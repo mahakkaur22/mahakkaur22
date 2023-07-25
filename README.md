@@ -2,8 +2,11 @@
 #### I am a Full Stack Web Developer 👩‍💻
 ![I am a full stack developer ](https://github.com/mahakkaur22/mahakkaur22/blob/8ed82175f236fdb192865117227b52c1137daa2d/MAHAK%20KAUR%20(1).gif)
 
-<p align="left"> <a href="https://twitter.com/Mahakkaur10" target="blank"><img src="https://img.shields.io/twitter/follow/mahakkaur22?logo=twitter&style=for-the-badge" alt="Mahakkaur10" /></a> </p>
+
 [![@Mahakkaur22's Holopin board](https://holopin.me/mahakkaur22)](https://holopin.io/@mahakkaur22)
+
+<p align="left"> <a href="https://twitter.com/Mahakkaur10" target="blank"><img src="https://img.shields.io/twitter/follow/mahakkaur22?logo=twitter&style=for-the-badge" alt="Mahakkaur10" /></a> </p>
+
 - 🔭 I’m currently working on **Full stack Web Developer**
 
 - 🌱 I’m currently learning **React.js, Node.js, Angular.js, OpenCV**
@@ -41,4 +44,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahakkaur22&" alt="mahakkaur22" /></p>
 
-[![@Mahakkaur22's Holopin board](https://holopin.me/mahakkaur22)](https://holopin.io/@mahakkaur22)
+
