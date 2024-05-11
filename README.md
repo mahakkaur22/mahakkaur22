@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Mahak Kaur
 #### I am a Full Stack Web Developer 👩‍💻
-![I am a full stack developer ]()
+![I am a full stack developer ](https://github.com/mahakkaur22/mahakkaur22/blob/main/Blue%20Modern%20Corporate%20Computer%20and%20Technology%20Linkedin%20Banner.png)
 
 
-[![@Mahakkaur22's Holopin board](https://holopin.me/mahakkaur22)](https://holopin.io/@mahakkaur22)
 
 <p align="left"> <a href="https://twitter.com/Mahakkaur10" target="blank"><img src="https://img.shields.io/twitter/follow/mahakkaur22?logo=twitter&style=for-the-badge" alt="Mahakkaur10" /></a> </p>
 
@@ -32,7 +31,7 @@
 <a href="https://twitter.com/Mahakkaur10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mahakkaur10" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahak-kaur-54a89a218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahak-kaur-54a89a218" height="30" width="40" /></a>
 </p> -->
-
+[![@Mahakkaur22's Holopin board](https://holopin.me/mahakkaur22)](https://holopin.io/@mahakkaur22)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
