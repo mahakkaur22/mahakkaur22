@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mahak Kaur
 #### I am a Full Stack Web Developer 👩‍💻
-![I am a full stack developer ](https://github.com/mahakkaur22/mahakkaur22/blob/8ed82175f236fdb192865117227b52c1137daa2d/MAHAK%20KAUR%20(1).gif)
+![I am a full stack developer ]()
 
 
 [![@Mahakkaur22's Holopin board](https://holopin.me/mahakkaur22)](https://holopin.io/@mahakkaur22)
