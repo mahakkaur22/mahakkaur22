@@ -1,46 +1,90 @@
-### Hi there 👋, my name is Mahak Kaur
-#### I am a Full Stack Web Developer 👩‍💻
-![I am a full stack developer ](https://github.com/mahakkaur22/mahakkaur22/blob/main/Blue%20Modern%20Corporate%20Computer%20and%20Technology%20Linkedin%20Banner.png)
+<!-- HEADER — commas URL-encoded as %2C so srcset doesn't break -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C40:6e40c9%2C100:0d1117&height=220&section=header&text=Mahak%20Kaur&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50&descSize=16&descColor=c084fc"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9%2C50:a855f7%2C100:6e40c9&height=220&section=header&text=Mahak%20Kaur&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50&descSize=16&descColor=e9d5ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9%2C50:a855f7%2C100:6e40c9&height=220&section=header&text=Mahak%20Kaur&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50&descSize=16&descColor=e9d5ff" width="100%"/>
+</picture>
 
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Mahak+%F0%9F%91%8B;Full+Stack+Web+Developer;MERN+Stack+Engineer;Web3+%26+OpenCV+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
+---
 
-<p align="left"> <a href="https://twitter.com/Mahakkaur10" target="blank"><img src="https://img.shields.io/twitter/follow/mahakkaur22?logo=twitter&style=for-the-badge" alt="Mahakkaur10" /></a> </p>
+## 🙋‍♀️ About Me
 
-- 🔭 I’m currently working on **Full stack Web Developer**
-
-- 🌱 I’m currently learning **React.js, Node.js, Angular.js, OpenCV**
-
-- 📫 How to reach me **mahakkaurchhabra22@gmail.com**
-- 🤔 I’m looking for help with token creation
-- 🌱 I’m currently learning web3.0
-
-- ⚡ Fun fact **I like Badminton** 🏸
- - 💬 Ask me about anything [here](https://www.linkedin.com/in/mahak-kaur-54a89a218)
-
+- 🔭 Currently working as a **Full Stack Web Developer**
+- 🌱 Learning **React.js · Node.js · Angular.js · OpenCV · Web3.0**
+- 🤔 Looking for help with **token creation**
+- ⚡ Fun fact — I love **Badminton** 🏸
 - 😄 Pronouns: **she/her**
+- 📫 Reach me at **mahakkaurchhabra22@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahakkaur22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahak-kaur-54a89a218)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/mahak_kaur22?igshid=MzNlNGNkZWQ4Mg==)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mahakkaur10?t=P8ypUCAYChhesQsmuNXpLg&s=09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22015251/mahak-kaur?tab=profile) 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahakkaur22&label=Profile%20views&color=0e75b6&style=flat" alt="mahakkaur22" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahakkaur22" alt="mahakkaur22" /></a> </p>
+## 🌐 Connect With Me
 
-<!-- <h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahak-kaur-54a89a218"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://twitter.com/Mahakkaur10"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
+  <a href="https://instagram.com/mahak_kaur22"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/mahakkaur22"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/22015251/mahak-kaur"><img src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+</p>
 
+---
 
-<p align="left">
-<a href="https://twitter.com/Mahakkaur10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mahakkaur10" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mahak-kaur-54a89a218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahak-kaur-54a89a218" height="30" width="40" /></a>
-</p> -->
-[![@Mahakkaur22's Holopin board](https://holopin.me/mahakkaur22)](https://holopin.io/@mahakkaur22)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🎖️ Holopin Badges
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahakkaur22&show_icons=true&locale=en&layout=compact" alt="mahakkaur22"/></p>
+<p align="center">
+  <a href="https://holopin.io/@mahakkaur22">
+    <img src="https://holopin.me/mahakkaur22" alt="@mahakkaur22's Holopin board"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahakkaur22&show_icons=true&locale=en" alt="mahakkaur22" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahakkaur22&" alt="mahakkaur22" /></p>
+## 🛠️ Tech Stack
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,express,mysql,figma,html,js,nextjs,nodejs,py,react&perline=13" alt="Tech Stack"/>
+  </a>
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<!-- Using tokyonight theme — self-contained dark card, looks great in both light and dark mode -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahakkaur22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahakkaur22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mahakkaur22&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahakkaur22&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+</p>
+
+---
+
+<!-- FOOTER — commas URL-encoded -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C40:6e40c9%2C100:0d1117&height=120&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9%2C50:a855f7%2C100:6e40c9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9%2C50:a855f7%2C100:6e40c9&height=120&section=footer" width="100%"/>
+</picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahakkaur22&label=Profile+Views&color=a855f7&style=flat" alt="Profile Views"/>
+</p>
